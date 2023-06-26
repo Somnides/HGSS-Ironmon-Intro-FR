@@ -35,3 +35,9 @@ Sont ainsi supprimés la plupart des dialogues et événements du début du jeu,
 - Supprime le tutoriel de capture.
 - Supprime les dialogues de l'Ancien et du Rival à la Tour Chétiflor.
 - Supprime l'événement avec Tamao à Mauville.
+
+## Voir aussi
+- [Universal Pokemon Randomizer ZX](https://github.com/Ajarmar/universal-pokemon-randomizer-zx) par Ajarmar  
+- [NDS Ironmon Tracker French](https://github.com/Piomale/NDS-Ironmon-Tracker-French) par lazerty_  
+- Règles officielles : [ironmon.gg](http://ironmon.gg/)  
+- Discord de la communauté : [discord.gg/jFPYsZAhjX](https://discord.gg/jFPYsZAhjX)
