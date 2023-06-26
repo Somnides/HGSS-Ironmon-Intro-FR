@@ -4,14 +4,12 @@ Ce patch, initialement conçu pour l'IronMON Challenge, a pour but de réduire l
 Sont ainsi supprimés la plupart des dialogues et événements du début du jeu, jusqu'à Mauville.
 
 ## Installation
-- Télécharger le patch dans l'onglet `Releases`.
-- Aller sur https://www.marcrobledo.com/RomPatcher.js/
-- Sélectionner la ROM de base du jeu et le patch à appliquer.
-- Sommes de contrôle pour Pokémon Version Or HeartGold :
-  - CRC32 : 533A6E55
-  - MD5 : 1F937C6376A25FF36358CA5819C83F5A
-  - SHA1 : F09016569EE5DBAC9DD0098D04927987C47645B9
-- Cliquer sur `Apply patch`.
+- Téléchargez le patch dans l'onglet [Releases](https://github.com/Somnides/HGSS-Ironmon-Intro-FR/releases/latest).
+- Allez sur https://www.marcrobledo.com/RomPatcher.js/.
+- Sélectionnez le jeu de base de Pokémon Or HeartGold et le patch à appliquer.
+- Cliquez sur `Apply patch`.
+
+![image](https://github.com/Somnides/HGSS-Ironmon-Intro-FR/assets/135850967/2ca91622-8552-462f-994e-2e1d68578f67)
 
 ## Détails du patch
 - Remplace le bouton « INFOS AVENTURE » par diverses informations sur le IronMON Challenge.
